@@ -1,0 +1,13 @@
+C:\Users\Роман\source\repos\OOP_Three\OOP_Three\bin\Debug\netcoreapp3.1\OOP_Three.exe
+C:\Users\Роман\source\repos\OOP_Three\OOP_Three\bin\Debug\netcoreapp3.1\OOP_Three.deps.json
+C:\Users\Роман\source\repos\OOP_Three\OOP_Three\bin\Debug\netcoreapp3.1\OOP_Three.runtimeconfig.json
+C:\Users\Роман\source\repos\OOP_Three\OOP_Three\bin\Debug\netcoreapp3.1\OOP_Three.runtimeconfig.dev.json
+C:\Users\Роман\source\repos\OOP_Three\OOP_Three\bin\Debug\netcoreapp3.1\OOP_Three.dll
+C:\Users\Роман\source\repos\OOP_Three\OOP_Three\bin\Debug\netcoreapp3.1\OOP_Three.pdb
+C:\Users\Роман\source\repos\OOP_Three\OOP_Three\obj\Debug\netcoreapp3.1\OOP_Three.csprojAssemblyReference.cache
+C:\Users\Роман\source\repos\OOP_Three\OOP_Three\obj\Debug\netcoreapp3.1\OOP_Three.AssemblyInfoInputs.cache
+C:\Users\Роман\source\repos\OOP_Three\OOP_Three\obj\Debug\netcoreapp3.1\OOP_Three.AssemblyInfo.cs
+C:\Users\Роман\source\repos\OOP_Three\OOP_Three\obj\Debug\netcoreapp3.1\OOP_Three.csproj.CoreCompileInputs.cache
+C:\Users\Роман\source\repos\OOP_Three\OOP_Three\obj\Debug\netcoreapp3.1\OOP_Three.dll
+C:\Users\Роман\source\repos\OOP_Three\OOP_Three\obj\Debug\netcoreapp3.1\OOP_Three.pdb
+C:\Users\Роман\source\repos\OOP_Three\OOP_Three\obj\Debug\netcoreapp3.1\OOP_Three.genruntimeconfig.cache
